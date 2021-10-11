@@ -109,4 +109,8 @@
         .footer-pd {
             padding: 0 10px;
         }
+        .c-category {
+            height: unset;
+            line-height: 1.4;
+        }
     }
